@@ -1,0 +1,12 @@
+name: webapp
+title: webapp
+username:
+account: abdullatif1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1790632
+bundleId: 2790579
+url: https://abdullatif1.shinyapps.io/webapp/
+when: 1581383355.74293
+asMultiple: FALSE
+asStatic: FALSE
